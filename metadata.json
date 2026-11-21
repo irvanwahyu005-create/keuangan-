@@ -1,0 +1,6 @@
+{
+  "name": "Kas Rumah",
+  "description": "Pengelola uang rumah tangga PWA offline-first dengan pelacakan harian, anggaran kategori, estimasi belanja dapur, laporan visual & PDF, pengingat harian, dan sinkronisasi Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
